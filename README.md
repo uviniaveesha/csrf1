@@ -3,6 +3,6 @@ Synchronizer Token Pattern
 
 How to build and deploy:
 
-npm install
-node server.js
+npm install <br>
+node server.js <br>
 http://localhost:3000/
